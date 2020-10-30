@@ -1,1 +1,1 @@
-# struklabprvi
+# strukturepodataka
